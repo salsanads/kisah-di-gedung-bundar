@@ -12,6 +12,7 @@ membeli makanan di warug Mas Jep, dia berganti langganan menjadi ayam saus tiram
 saus tiram tersebut rasanya asin, tapi dia rela memakannya. Harganya yang naik seribu 
 menjadi 14.000 pun terkadang membuat dompetnya kempes. Namun demi pujaan hatinya dia rela
 melakukannya dalam rangka meningkatkan chemistry diantara dia. Setelah dia melakukannya
+<<<<<<< HEAD
 selama beberapa hari, kejadiannya terjadi tidak sesuai dengan harapannya.
 
 <<<<<<< HEAD
@@ -35,3 +36,8 @@ dia. Setelah dia melakukannya selama beberapa hari, kejadiannya terjadi
 tidak sesuai dengan harapannya. Begitulah ceritanya berlanjut...
 >>>>>>> origin/master
 >>>>>>> origin/master
+=======
+selama beberapa hari, kejadiannya terjadi tidak sesuai dengan harapannya
+
+ini budi, budi pergi ke sekolah
+>>>>>>> origin/diman
